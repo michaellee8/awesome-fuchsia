@@ -129,6 +129,7 @@ Flutter allows you to build beautiful native apps on iOS, Android and Fuchsiafro
 - [Dart Pub](https://pub.dartlang.org/) - All Flutter packages and libraries
 - [Awesome Flutter Packages](https://github.com/leisim/awesome-flutter-packages) - Collection of the best Flutter packages (with images)
 - [Awesome Flutter](https://github.com/Solido/awesome-flutter) - Collection of Flutter packages, articles and resources
+- [flutter_fuchsia_toolchain](https://github.com/michaellee8/flutter_fuchsia_toolchain - A prebuilt toolchain for easy Flutter development on Google's Fuchsia OS.
 
 ## FIDL
 The **F**uchsia **I**nterface **D**efinition **L**anguage is the language used to describe interprocess communication (IPC) protocols used by programs running on the Fuchsia Operating System.
